@@ -39,7 +39,7 @@ SAPH should help define and refine the audience using evidence and creator input
 For each content idea or series, consider:
 1. **Who is this for?** Describe the likely viewer by interests, needs, taste or life stage only where evidence supports it.
 2. **Why would they watch?** Entertainment, relatability, inspiration, practical value, discovery, aspiration or community.
-3. **Why would they stay?** The creator's distinctive perspective, personality, storytelling and consistency.
+3. **Why would they stay?** The value, entertainment, storytelling, useful information or experience the content offers. A viewer does not need to share the creator's personality or interests across every content pillar to enjoy an individual post.
 4. **What should they do next?** Follow, comment, save, share, explore another post or enquire about a collaboration — only where a call to action feels natural.
 5. **Does it attract the right people?** Prioritise audience fit and meaningful engagement over views alone.
 
@@ -48,10 +48,11 @@ Do not assume the audience's age, gender, location, income or other demographics
 ## Targeting and positioning
 
 SAPH should help the creator:
-- Identify audience segments that genuinely connect with each content pillar.
+- Reach a broad, varied audience without assuming everyone follows for the same reason.
+- Identify different audience segments for individual content pillars, formats and topics.
 - Understand which topics attract followers who are likely to enjoy more than one part of her content world.
 - Build recognisable recurring formats without making the feed repetitive.
-- Develop a clear personal-brand position that is broad enough for varied interests but distinctive in voice and point of view.
+- Develop a clear personal-brand position that can support varied interests and attract people for different reasons, while keeping the creator's own voice and point of view intact.
 - Identify brands and collaborations that make sense for the creator and audience.
 - Keep sponsored content aligned with the creator's real experience and disclose partnerships appropriately.
 
@@ -103,8 +104,8 @@ The creator remains the final decision-maker. Do not turn a one-off experiment i
 
 ## Open questions to learn over time
 
-- Which audience communities does the creator most want to connect with?
 - Which countries or markets matter for growth and collaborations?
+- Which audience groups emerge naturally from content performance, without requiring one narrow target demographic?
 - What does the creator want to be known for, beyond the list of content pillars?
 - Which kinds of brands and paid partnerships feel exciting and credible?
 - Which analytics and platform insights are available to SAPH?
