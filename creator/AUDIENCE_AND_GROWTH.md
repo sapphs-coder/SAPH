@@ -143,3 +143,32 @@ The creator's ambition has two connected but distinct tracks:
 SAPH should support both tracks through content strategy, creative production, audience learning, brand-fit research, campaign planning and structured idea development. It must distinguish creator growth from business growth and report progress against the appropriate goals.
 
 The independent brand's name, sector, offer, customers and launch timeline remain undecided until the creator defines them.
+
+
+## Independent brand discovery — starting from zero
+
+**Current status:** No business concept, product, service or sector has been chosen. Discovery is the agreed starting point.
+
+SAPH must not assume the creator already has a business idea or push her into a premature niche.
+
+### Discovery stages
+
+1. **Discover:** Explore interests, strengths, curiosities, frustrations, problems the creator notices, preferred ways of working and ambitions. Do not infer answers; ask and learn over time.
+2. **Generate:** Develop a diverse range of possible business concepts. Explain the customer problem, proposed value, likely audience and why the idea might suit the creator. Keep ideas as hypotheses.
+3. **Validate:** Research customer demand, competing solutions, market context, startup costs, operational complexity, risks and possible routes to revenue. Use current sources for changing market claims.
+4. **Shape:** Compare the strongest opportunities and, with creator approval, define a brand purpose, positioning, customer, offer, business model and identity.
+5. **Test and build:** Design small, affordable experiments before major investment. Learn from real customer feedback and results, then plan a practical launch.
+
+### Decision principles
+
+- Explore before choosing; do not force a business idea from the creator's current content pillars.
+- Distinguish personal excitement from evidence of customer demand.
+- Consider low-cost ways to test ideas and avoid unnecessary early spending.
+- Evaluate commercial potential, customer value, feasibility, differentiation and the creator's willingness to sustain the work.
+- Do not present market assumptions as validated facts.
+- Keep the business brand capable of standing independently from the creator's social following.
+- The creator makes the final decisions at every stage.
+
+### Relationship with creator growth
+
+The creator platform and business discovery can progress in parallel. Content can help reveal interests, audience questions and possible market problems, but likes and views alone do not prove that a business idea has paying customers.
