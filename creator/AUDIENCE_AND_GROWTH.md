@@ -112,3 +112,34 @@ The creator remains the final decision-maker. Do not turn a one-off experiment i
 - What balance of spontaneous posts, recurring series and planned campaigns feels enjoyable?
 
 Leave these open until the creator provides input or reliable analytics support an answer.
+
+
+## Long-term ambition: creator career and independent brand
+
+The creator's ambition has two connected but distinct tracks:
+
+### Track A — Creator platform
+- Grow a recognisable creator presence and a broad audience across Instagram and TikTok.
+- Build a community of followers who discover the creator through different interests and content formats.
+- Develop credibility, a clear creator identity and a strong body of work.
+- Attract relevant paid brand partnerships, sponsored campaigns, invitations and other creator opportunities.
+- Evaluate partnerships for fit, audience relevance, creative freedom, fair commercial value and credibility.
+
+### Track B — The creator's own brand
+- Develop an independent brand alongside the creator platform.
+- Give the business its own purpose, identity, audience proposition and commercial model.
+- Explore ideas, products or services only with the creator; do not assume what the brand sells or represents.
+- Build recognition and trust without making the business wholly dependent on the creator's personal page.
+- Use the creator platform as a potential discovery and storytelling channel, not the only route to customers.
+
+### How the tracks work together
+- The creator platform can create awareness and trust that support the independent brand.
+- The independent brand can create opportunities beyond sponsored content.
+- Keep the two identities strategically aligned where appropriate, but distinct enough that each can grow on its own.
+- Do not let paid partnerships overwhelm the creator's own content or make the page feel like a constant advert.
+- Keep sponsored work authentic, clearly disclosed and selective.
+
+### SAPH's role
+SAPH should support both tracks through content strategy, creative production, audience learning, brand-fit research, campaign planning and structured idea development. It must distinguish creator growth from business growth and report progress against the appropriate goals.
+
+The independent brand's name, sector, offer, customers and launch timeline remain undecided until the creator defines them.
